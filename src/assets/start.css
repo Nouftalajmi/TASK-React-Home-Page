@@ -1,0 +1,13 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+/* .container{} */
+
+.cookiesShop {
+  background-image: image("./image/cookieshop.png");
+  height: 80%;
+}
+
+/* .cookiesShop { */
+/* } */
