@@ -3,11 +3,13 @@ import image from "./assets/image/cooki.jpeg";
 // import image1 from "./assets/image/cutecookie.jpeg";
 const products = [
   {
+    id: "1",
     name: "chocolate chip cookies",
     price: "10 KD",
     image: image,
   },
   {
+    id: "2",
     name: "cute cookie",
     price: "10 KD",
     image:
